@@ -1,0 +1,21 @@
+Tuesday Timetable
+
+New systems Programming: ca284
+Location: QG15
+Time: 09:00 - 10:00
+Lecturer: Mai T
+
+Probability and Statistics: Ca266
+Location: SA301
+Time: 10:00 - 11:00
+Lecturer: Healy G
+
+Probability and Statistics(lab): Ca266
+Location: L128, L101, L114
+Time: 13:00 - 14:00
+Lecturer: Healy G
+
+Linear Alegbra: Ms200
+Location: HG20
+Time: 17:00 - 18:00
+Lecturer: Egan R

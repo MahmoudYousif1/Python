@@ -1,0 +1,11 @@
+Monday Timetable
+
+Computer Programming 3: Ca268
+Location: SA101
+Time: 14:00 - 16:00
+Lecturer: Javidnia H
+
+Linear Alegbra: Ms200
+Location: HG20
+Time: 17:00 - 18:00
+Lecturer: Egan R

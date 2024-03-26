@@ -1,0 +1,16 @@
+Thursday Timetable
+
+New systems Programming: ca284
+Location: QG15
+Time: 09:00 - 10:00
+Lecturer: Mai T
+
+Probability and Statistics: Ca266
+Location: SA301
+Time: 10:00 - 11:00
+Lecturer: Healy G
+
+Systems Analysis: Ca214
+Location: SA101
+Time: 11:00 - 12:00
+Lecturer: Lee H

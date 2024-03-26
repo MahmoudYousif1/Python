@@ -1,0 +1,11 @@
+Wednesday Timetable
+
+Intro to DevOps: Ca282
+Location: CG12
+Time: 09:00 - 11:00
+Lecturer: Slaimi A
+
+Intro to DevOps(labs): Ca282
+Location: L128, L101, L114
+Time: 11:00 - 13:00
+Lecturer: Slaimi A
